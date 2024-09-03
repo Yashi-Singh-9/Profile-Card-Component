@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Primary Colors */
+    --dark-cyan: hsl(185, 75%, 39%);
+    --very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    --dark-grayish-blue: hsl(227, 10%, 46%);
+
+    /* Neutral Color */
+    --dark-gray: hsl(0, 0%, 59%);
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--dark-cyan);
+    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.profile-card {
+    max-width: 420px;
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+.card-header img {
+    width: 100%;
+    display: block;
+}
+
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    margin-top: -52px;
+    margin-bottom: 20px;
+}
+
+.profile-name {
+    color: var(--very-dark-desaturated-blue);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.profile-age {
+    color: var(--dark-grayish-blue);
+    font-weight: 400;
+}
+
+.profile-location {
+    color: var(--dark-grayish-blue);
+    font-size: 13px;
+}
+
+.profile-stats {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid hsla(227, 10%, 46%, 0.2);
+    padding: 30px 50px;
+    margin-top: 30px;
+}
+
+.stat-item .num {
+    font-size: 18px;
+    color: var(--very-dark-desaturated-blue);
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.stat-label {
+    color: var(--dark-grayish-blue);
+    font-size: 13px;
+}
+
+.attribution {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+@media (max-width: 425px) {
+    body {
+        background-position: right 45vw bottom 27vh, left 50vw top 50vh;
+    }
+}
