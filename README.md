@@ -1,7 +1,7 @@
 # Profile Card Component - Frontend Mentor Challenge
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b87a4dcb-121b-4bf9-9d01-ab32ca88bc8d/deploy-status)](https://app.netlify.com/sites/profile-card-component-frontend-yashi/deploys) 
-![GitLab commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/profile-card-component-frontend-mentor?style=for-the-badge)
+![github commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Profile-Card-Component?style=for-the-badge)
 
 ## Overview
 
@@ -17,8 +17,6 @@ This project is a solution to the **Profile Card Component** challenge on [Front
 
 ## Project Links
 
-- **Repository**: [GitLab](https://gitlab.com/Yashi-Singh-9/profile-card-component-frontend-mentor)
-- **Solution**: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-c8AyghW3aG)
 - **Live Demo**: [Live](https://profile-card-component-frontend-yashi.netlify.app/)
 
 ## Technologies Used
@@ -40,20 +38,6 @@ The project files are organized as follows:
 - **index.html**: Contains the markup for the profile card component.
 - **styles.css**: Contains all the styles used for the component, including global styles, component-specific styles, and media queries.
 - **images/**: Contains all the images used in the project, such as the background patterns and the profile picture.
-
-## How to Use
-
-To view or modify the project:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/profile-card-component-frontend-mentor.git
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd profile-card-component-frontend-mentor
-   ```
-3. **Open `index.html` in your browser** to view the profile card component.
 
 ## Customization
 
