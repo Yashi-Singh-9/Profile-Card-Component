@@ -17,6 +17,7 @@ This project is a solution to the **Profile Card Component** challenge on [Front
 
 ## Project Links
 
+- **Solution**: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-AgRVAdRRoZ)
 - **Live Demo**: [Live](https://profile-card-component-frontend-yashi.netlify.app/)
 
 ## Technologies Used
