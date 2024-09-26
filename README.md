@@ -1,7 +1,7 @@
 # Profile Card Component - Frontend Mentor Challenge
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b87a4dcb-121b-4bf9-9d01-ab32ca88bc8d/deploy-status)](https://app.netlify.com/sites/profile-card-component-frontend-yashi/deploys) 
-![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Profile-Card-Component)
+![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Profile-Card-Component/main)
 
 ## Overview
 
