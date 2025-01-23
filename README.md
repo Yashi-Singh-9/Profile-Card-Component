@@ -19,7 +19,7 @@ The solution is implemented using **HTML** and **SCSS** for cleaner, maintainabl
 ## Project Links
 
 - **Solution**: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-AgRVAdRRoZ)
-- **Live Demo**: [Live](https://profile-card-component-frontend-yashi.netlify.app/)
+- **Live Demo**: [Live](https://yashi-singh-9.github.io/Profile-Card-Component/)
 
 ## Technologies Used
 
